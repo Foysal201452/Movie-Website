@@ -12,4 +12,5 @@ A React-based web application that lets users search for movies using an externa
 
 ## 📸 Screenshot  
 
-![Movie Website Screenshot](./screenshot.png)
+![Movie Website Screenshot](./public/screenshot.png)
+
